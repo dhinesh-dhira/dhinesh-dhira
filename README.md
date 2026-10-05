@@ -1,31 +1,10 @@
-# Hi there, I'm Dhinesh Raja 👋
+# Welcome! I'm Dhinesh Raja 👋
 
-I'm a **Project Manager**, **Scrum Master**, and **Business Analyst**, passionate about **Agile methodologies**, **team collaboration**, and **delivering value** through **data-driven solutions**.  
-While I'm not a coding expert, I leverage coding tools for **business analytics** and to automate tasks that drive efficiency.
+I bridge the gap between **Agile product delivery** and **AI-driven development**. Passionate about building with modern LLM stack, refining complex prompts, and leveraging code to build intelligent, automated workflows.
 
-## 💼 Skills & Expertise
+### ⚡ What I Focus On
+- **AI & Prompt Engineering:** Prompt refinement, context-window optimization, GenAI workflow orchestration, and AI-assisted dev tools.
+- **Development & Automation:** Python scripting, rapid prototyping, and workflow automation.
+- **Product Strategy:** Combining BA/Agile methodologies with hands-on AI capabilities to turn raw ideas into scalable systems.
 
-- **Project Management**: Agile, Scrum, Kanban, Waterfall
-- **Business Analysis**: Requirements Gathering, Stakeholder Management, Data Analysis
-- **Technologies**: Python (for data analysis and automation), Excel, PowerBI
-- **Automation**: Short scripts for process automation
-- **Tools**: JIRA, Buganizer, Microsoft/Github Project
-
-## 🚀 Current Focus
-
-- Improving team collaboration through Agile practices
-- Building data-driven solutions for business growth
-- Automating repetitive tasks to improve operational efficiency
-
-## 📬 Contact Me
-
-- Email: [contactmedhira@gmail.com](mailto:contactmedhira@gmail.com)
-- LinkedIn: [Dhinesh Raja](https://www.linkedin.com/in/dhinesh-raja-b519aa139/)
-
-## ⚡ Fun Facts
-
-- I enjoy reading about **Agile** and **productivity**.
-- I’m always looking for ways to streamline business processes and improve team workflows.
-- A fan of **data**—whether it's for analysis, reporting, or just making better decisions.
-
-Thanks for visiting my profile! Let's connect! 😊
+*Always experimenting with new AI capabilities and code patterns. Let's connect and build something smart!*
